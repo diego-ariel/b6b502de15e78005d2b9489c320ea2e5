@@ -1,3 +1,22 @@
 {
-  "placeholder": "see task report"
+  "updated_at": "2026-07-25T17:12:51Z",
+  "source": "GoogleWorkspace_get_events",
+  "window": {
+    "from": "2026-07-25T17:12:51Z",
+    "to": "2026-10-23T17:12:51Z",
+    "days": 90
+  },
+  "calendars_processed": 12,
+  "events_count": 63,
+  "deduplicated_by": "calendar_id + event_id",
+  "classified_and_sorted": true,
+  "events_by_type": {
+    "holiday": 13,
+    "observance": 12,
+    "meeting": 3,
+    "maintenance": 2,
+    "security_scan": 31,
+    "vacation": 2
+  },
+  "events": []
 }
