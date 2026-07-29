@@ -1,4 +1,13 @@
 {
-  "status": "pending",
-  "note": "calendar sync placeholder"
+  "updated_at": "2026-07-29T12:12:48Z",
+  "source": "GoogleWorkspace_get_events",
+  "window": {"start": "2026-07-29T12:12:48Z", "end": "2026-10-27T12:12:48Z", "days": 90},
+  "calendar_count": 12,
+  "events_count": 0,
+  "event_count": 0,
+  "unique_calendar_event_keys": 0,
+  "deduplicated_by": "calendar_id + event_id",
+  "classified_and_sorted": true,
+  "events_by_type": {},
+  "events": []
 }
