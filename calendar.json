@@ -1,20 +1,17 @@
 {
-  "updated_at": "2026-07-31T02:13:37Z",
+  "updated_at": "2026-08-01T19:12:55Z",
   "source": "GoogleWorkspace_get_events",
-  "window": {"start": "2026-07-31T02:13:37Z", "end": "2026-10-29T02:13:37Z", "days": 90},
+  "window": {
+    "start": "2026-08-01T19:12:55Z",
+    "end": "2026-10-30T19:12:55Z",
+    "days": 90
+  },
   "calendar_count": 12,
-  "events_count": 64,
-  "event_count": 64,
-  "unique_calendar_event_keys": 64,
+  "events_count": 0,
+  "event_count": 0,
+  "unique_calendar_event_keys": 0,
   "deduplicated_by": "calendar_id + event_id",
   "classified_and_sorted": true,
-  "events_by_type": {
-    "security": 32,
-    "vacation": 1,
-    "meeting": 3,
-    "holiday": 18,
-    "observance": 8,
-    "maintenance": 2
-  },
+  "events_by_type": {},
   "events": []
 }
