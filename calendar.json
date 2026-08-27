@@ -1,1 +1,60 @@
-{}
+{
+  "updated_at": "2026-08-27T19:17:12Z",
+  "source": "GoogleWorkspace_get_events",
+  "window": {
+    "from": "2026-08-27T19:17:12Z",
+    "to": "2026-11-25T19:17:12Z"
+  },
+  "window_start": "2026-08-27T19:17:12Z",
+  "window_end": "2026-11-25T19:17:12Z",
+  "window_days": 90,
+  "calendar_count": 12,
+  "calendars_processed_count": 12,
+  "calendars_processed": [
+    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com",
+    "en.ar#holiday@group.v.calendar.google.com",
+    "es.ec#holiday@group.v.calendar.google.com",
+    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com",
+    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
+    "es.mexican#holiday@group.v.calendar.google.com",
+    "es.cl#holiday@group.v.calendar.google.com",
+    "noc@despegar.com",
+    "es.co#holiday@group.v.calendar.google.com",
+    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
+    "es.brazilian#holiday@group.v.calendar.google.com",
+    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com"
+  ],
+  "calendars_processed_ids": [
+    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com",
+    "en.ar#holiday@group.v.calendar.google.com",
+    "es.ec#holiday@group.v.calendar.google.com",
+    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com",
+    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
+    "es.mexican#holiday@group.v.calendar.google.com",
+    "es.cl#holiday@group.v.calendar.google.com",
+    "noc@despegar.com",
+    "es.co#holiday@group.v.calendar.google.com",
+    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
+    "es.brazilian#holiday@group.v.calendar.google.com",
+    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com"
+  ],
+  "calendars_with_events": 10,
+  "event_count": 136,
+  "events_count": 136,
+  "deduplicated_by": "calendar_id + event_id",
+  "future_only": true,
+  "chronological": true,
+  "events_by_type": {
+    "maintenance": 1,
+    "migration": 33,
+    "security": 32,
+    "other": 29,
+    "vacation": 3,
+    "meeting": 3,
+    "holiday": 27,
+    "observance": 8
+  },
+  "calendar_fetch_errors": [],
+  "raw_events_parsed": 3139,
+  "events": []
+}
