@@ -5,39 +5,9 @@
     "from": "2026-08-27T19:17:12Z",
     "to": "2026-11-25T19:17:12Z"
   },
-  "window_start": "2026-08-27T19:17:12Z",
-  "window_end": "2026-11-25T19:17:12Z",
   "window_days": 90,
   "calendar_count": 12,
   "calendars_processed_count": 12,
-  "calendars_processed": [
-    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com",
-    "en.ar#holiday@group.v.calendar.google.com",
-    "es.ec#holiday@group.v.calendar.google.com",
-    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com",
-    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
-    "es.mexican#holiday@group.v.calendar.google.com",
-    "es.cl#holiday@group.v.calendar.google.com",
-    "noc@despegar.com",
-    "es.co#holiday@group.v.calendar.google.com",
-    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
-    "es.brazilian#holiday@group.v.calendar.google.com",
-    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com"
-  ],
-  "calendars_processed_ids": [
-    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com",
-    "en.ar#holiday@group.v.calendar.google.com",
-    "es.ec#holiday@group.v.calendar.google.com",
-    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com",
-    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
-    "es.mexican#holiday@group.v.calendar.google.com",
-    "es.cl#holiday@group.v.calendar.google.com",
-    "noc@despegar.com",
-    "es.co#holiday@group.v.calendar.google.com",
-    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
-    "es.brazilian#holiday@group.v.calendar.google.com",
-    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com"
-  ],
   "calendars_with_events": 10,
   "event_count": 136,
   "events_count": 136,
@@ -54,7 +24,22 @@
     "holiday": 27,
     "observance": 8
   },
-  "calendar_fetch_errors": [],
-  "raw_events_parsed": 3139,
-  "events": []
+  "events": [
+    {"calendar_id":"noc@despegar.com","event_id":"_61i3gdhj65hjgd1n6dgm6ohlccsmadb2cdij8d3668r68d1j6sog","title":"CHG0107012 Mantenimiento Programado | CHG0107012 Manutenção Programada | CHG0107012 Scheduled Maintenance","start":"2026-08-28T02:00:00-03:00","end":"2026-08-28T05:00:00-03:00","type":"maintenance"},
+    {"calendar_id":"noc@despegar.com","event_id":"5kfdo9b9rocclkoimup4u5ect3","title":"🚀 Migración mongodb Produccion mongodb-kanoa-prod → mdb-kanoa","start":"2026-08-28T09:00:00-03:00","end":"2026-08-28T10:00:00-03:00","type":"migration"},
+    {"calendar_id":"noc@despegar.com","event_id":"0tmnjc09q6900mqok3qk8nu6qa","title":"🚀 Migración mongodb Produccion paramore-mongodb → mdb-paramore","start":"2026-08-28T10:00:00-03:00","end":"2026-08-28T11:00:00-03:00","type":"migration"},
+    {"calendar_id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com","event_id":"hde0h9c56u7fb8rpdfnmrf5vup_20260828T230000Z","title":"InfraSec: Escaneos de parches faltantes, NAP","start":"2026-08-28T20:00:00-03:00","end":"2026-08-30T20:00:00-03:00","type":"security"},
+    {"calendar_id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com","event_id":"kscub1kvs1vomlsuc6j7ulk63u_20260828T230000Z","title":"InfraSec: Escaneos de vulnerabilidades, AWS","start":"2026-08-28T20:00:00-03:00","end":"2026-08-30T20:00:00-03:00","type":"security"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"cehrh123ttc6g5ssoarkaesgug","title":"📧 Mail MASIVO +1.300.000 — Despegar CL","start":"2026-08-30T22:00:00-03:00","end":"2026-08-30T22:15:00-03:00","type":"other"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"iu0a9pvrf3pneb98emq1oedlv8","title":"📧 Mail MASIVO +485.000 — Viajes Falabella CL","start":"2026-08-30T22:00:00-03:00","end":"2026-08-30T22:15:00-03:00","type":"other"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"le8ia5f86qbbme11i54lf5qvlo","title":"📲 Push MASIVO +485.000 — Viajes Falabella CL","start":"2026-08-30T22:00:00-03:00","end":"2026-08-30T22:15:00-03:00","type":"other"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"rtjbcd9teouadgco43n0r9bj6c","title":"📲 Push MASIVO +500.000 — Despegar CL","start":"2026-08-30T22:00:00-03:00","end":"2026-08-30T22:15:00-03:00","type":"other"},
+    {"calendar_id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com","event_id":"2hk9o7a1gh2j98nmc0ulbdkq56","title":"Vacaciones Jorge Miranda","start":"2026-08-31","end":"2026-09-12","type":"vacation"},
+    {"calendar_id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com","event_id":"4ooilf2fbebjapsnbb4u8vtmme","title":"Vacaciones Oscar","start":"2026-08-31T00:00:00-03:00","end":"2026-09-07T13:30:00-03:00","type":"vacation"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"f3rg34un8dn1iki3qhh2vteq7o","title":"🇨🇱 Travel Sale Chile","start":"2026-08-31","end":"2026-09-07","type":"other"},
+    {"calendar_id":"noc@despegar.com","event_id":"1he2d6vbcof1gchekc1ip5o3o6","title":"🚀 Migración mongodb Producción ra-hunterdb-prod → mdb-ra-hunterdb","start":"2026-08-31T09:00:00-03:00","end":"2026-08-31T10:00:00-03:00","type":"migration"},
+    {"calendar_id":"noc@despegar.com","event_id":"52d20eci65pli3nhl03e0rlo85","title":"🚀 Migración mongodb Producción lazaro-prod-mongodb → mdb-lazaro","start":"2026-08-31T10:00:00-03:00","end":"2026-08-31T11:00:00-03:00","type":"migration"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","event_id":"9ndafnm9hh474nm9h0jbv66ors","title":"📧 Mail SEGMENTADO <105.000 — Viajes Falabella CL","start":"2026-08-31T12:00:00-03:00","end":"2026-08-31T12:15:00-03:00","type":"other"}
+  ],
+  "note": "The complete normalized snapshot is retained in the task workspace deliverable; this Gist index records the verified window, counts, classification totals, and chronological leading events."
 }
