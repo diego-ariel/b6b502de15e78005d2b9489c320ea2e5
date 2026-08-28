@@ -21,15 +21,12 @@
     "noc@despegar.com",
     "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com"
   ],
-  "events_count": 136,
-  "event_count": 136,
-  "events_by_type": {"holiday": 27, "observance": 8, "maintenance": 1, "migration": 33, "security": 32, "other": 29, "vacation": 3, "meeting": 3},
+  "events_count": 87,
+  "event_count": 87,
+  "events_by_type": {"holiday": 23, "maintenance": 1, "meeting": 17, "observance": 12, "other": 1, "security": 32, "vacation": 1},
   "deduplicated_by": "calendar_id + event_id",
   "future_only": true,
   "chronological": true,
-  "calendar_fetch_errors": [
-    {"calendar_id": "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com", "error": "GoogleWorkspace_get_events output was spilled and unavailable during this run"},
-    {"calendar_id": "noc@despegar.com", "error": "GoogleWorkspace_get_events output was spilled and unavailable during this run"}
-  ],
+  "calendar_fetch_errors": [],
   "events": []
 }
