@@ -1,10 +1,7 @@
 {
   "updated_at": "2026-08-28T00:11:30Z",
   "source": "GoogleWorkspace_get_events",
-  "window": {
-    "from": "2026-08-28T00:11:30Z",
-    "to": "2026-11-26T00:11:30Z"
-  },
+  "window": {"from": "2026-08-28T00:11:30Z", "to": "2026-11-26T00:11:30Z"},
   "window_start": "2026-08-28T00:11:30Z",
   "window_end": "2026-11-26T00:11:30Z",
   "window_days": 90,
@@ -24,9 +21,9 @@
     "noc@despegar.com",
     "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com"
   ],
-  "events_count": 0,
-  "event_count": 0,
-  "events_by_type": {},
+  "events_count": 136,
+  "event_count": 136,
+  "events_by_type": {"holiday": 27, "observance": 8, "maintenance": 1, "migration": 33, "security": 32, "other": 29, "vacation": 3, "meeting": 3},
   "deduplicated_by": "calendar_id + event_id",
   "future_only": true,
   "chronological": true,
