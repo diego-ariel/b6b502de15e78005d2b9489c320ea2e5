@@ -24,12 +24,31 @@
     "noc@despegar.com",
     "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com"
   ],
-  "events_count": 0,
-  "event_count": 0,
-  "events_by_type": {},
+  "events_count": 115,
+  "event_count": 115,
+  "events_by_type": {
+    "holiday": 29,
+    "meeting": 3,
+    "migration": 33,
+    "observance": 14,
+    "other": 1,
+    "security": 32,
+    "vacation": 3
+  },
   "deduplicated_by": "calendar_id + event_id",
   "future_only": true,
   "chronological": true,
   "calendar_fetch_errors": [],
-  "events": []
+  "events": [
+    {"calendar_id":"noc@despegar.com","calendar_name":"noc@despegar.com","event_id":"5kfdo9b9rocclkoimup4u5ect3","id":"noc@despegar.com|5kfdo9b9rocclkoimup4u5ect3","title":"🚀 Migración mongodb Produccion kanoa-mongodb → mdb-kanoa","short_title":"🚀 Migración mongodb Produccion kanoa-mongodb → mdb-kanoa","start":"2026-08-28T12:00:00Z","end":"2026-08-28T13:00:00Z","type":"migration","url":"https://www.google.com/calendar/event?eid=NWtmZG85Yjlyb2NjbGtvaW11cDR1NWVjdDMgbm9jQGRlc3BlZ2FyLmNvbQ"},
+    {"calendar_id":"noc@despegar.com","calendar_name":"noc@despegar.com","event_id":"0tmnjc09q6900mqok3qk8nu6qa","id":"noc@despegar.com|0tmnjc09q6900mqok3qk8nu6qa","title":"🚀 Migración mongodb Produccion paramore-mongodb → mdb-paramore","short_title":"🚀 Migración mongodb Produccion paramore-mongodb → mdb-paramore","start":"2026-08-28T13:00:00Z","end":"2026-08-28T14:00:00Z","type":"migration","url":"https://www.google.com/calendar/event?eid=MHRtbmpjMDlxNjkwMG1xb2szcWs4bnU2cWEgbm9jQGRlc3BlZ2FyLmNvbQ"},
+    {"calendar_id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com","calendar_name":"Infrasec Escaneos","event_id":"hde0h9c56u7fb8rpdfnmrf5vup_20260828T230000Z","id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com|hde0h9c56u7fb8rpdfnmrf5vup_20260828T230000Z","title":"InfraSec: Escaneos de parches faltantes, NAP","short_title":"InfraSec: Escaneos de parches faltantes, NAP","start":"2026-08-28T23:00:00Z","end":"2026-08-30T23:00:00Z","type":"security","url":"https://www.google.com/calendar/event?eid=aGRlMGg5YzU2dTdmYjhycGRmbm1yZjV2dXBfMjAyNjA4MjhUMjMwMDAwWiBkZXNwZWdhci5jb21faDRxZzVrbzI2NWJ1cGUwNWZ0Y211cDR1dW9AZw"},
+    {"calendar_id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com","calendar_name":"Infrasec Escaneos","event_id":"kscub1kvs1vomlsuc6j7ulk63u_20260828T230000Z","id":"despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com|kscub1kvs1vomlsuc6j7ulk63u_20260828T230000Z","title":"InfraSec: Escaneos de vulnerabilidades, AWS","short_title":"InfraSec: Escaneos de vulnerabilidades, AWS","start":"2026-08-28T23:00:00Z","end":"2026-08-30T23:00:00Z","type":"security","url":"https://www.google.com/calendar/event?eid=a3NjdWIxa3ZzMXZvbWxzdWM2ajd1bGs2M3VfMjAyNjA4MjhUMjMwMDAwWiBkZXNwZWdhci5jb21faDRxZzVrbzI2NWJ1cGUwNWZ0Y211cDR1dW9AZw"},
+    {"calendar_id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com","calendar_name":"Vacaciones NOC","event_id":"2hk9o7a1gh2j98nmc0ulbdkq56","id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com|2hk9o7a1gh2j98nmc0ulbdkq56","title":"Vacaciones Jorge Miranda","short_title":"Vacaciones Jorge Miranda","start":"2026-08-31","end":"2026-09-12","type":"vacation","url":"https://www.google.com/calendar/event?eid=MmhrOW83YTFnaDJqOThubWMwdWxiZGtxNTYgY19wYnM5dmhnbTIwaGw5dGppa2ZqbWZkOHVwc0Bn"},
+    {"calendar_id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com","calendar_name":"Vacaciones NOC","event_id":"4ooilf2fbebjapsnbb4u8vtmme","id":"c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com|4ooilf2fbebjapsnbb4u8vtmme","title":"Vacaciones Oscar","short_title":"Vacaciones Oscar","start":"2026-08-31T03:00:00Z","end":"2026-09-07T16:30:00Z","type":"vacation","url":"https://www.google.com/calendar/event?eid=NG9vaWxmMmZiZWJqYXBzbmJiNHU4dnRtbWUgY19wYnM5dmhnbTIwaGw5dGppa2ZqbWZkOHVwc0Bn"},
+    {"calendar_id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com","calendar_name":"Promociones Despegar.com","event_id":"f3rg34un8dn1iki3qhh2vteq7o","id":"despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com|f3rg34un8dn1iki3qhh2vteq7o","title":"🇨🇱 Travel Sale Chile","short_title":"🇨🇱 Travel Sale Chile","start":"2026-08-31","end":"2026-09-07","type":"promotion","url":"https://www.google.com/calendar/event?eid=ZjNyZzM0dW44ZG4xaWtpM3FoaDJ2dGVxN28gZGVzcGVnYXIuY29tX3V0anJuN29mdGY3OW9jb3FmM2U0aWY5MWtjQGc"},
+    {"calendar_id":"noc@despegar.com","calendar_name":"noc@despegar.com","event_id":"1he2d6vbcof1gchekc1ip5o3o6","id":"noc@despegar.com|1he2d6vbcof1gchekc1ip5o3o6","title":"🚀 Migración mongodb Producción ra-hunterdb-prod → mdb-ra-hunterdb","short_title":"🚀 Migración mongodb Producción ra-hunterdb-prod → mdb-ra-hunterdb","start":"2026-08-31T12:00:00Z","end":"2026-08-31T13:00:00Z","type":"migration","url":"https://www.google.com/calendar/event?eid=MWhlMmQ2dmJjb2YxZ2NoZWtjMWlwNW8zbzYgbm9jQGRlc3BlZ2FyLmNvbQ"},
+    {"calendar_id":"noc@despegar.com","calendar_name":"noc@despegar.com","event_id":"52d20eci65pli3nhl03e0rlo85","id":"noc@despegar.com|52d20eci65pli3nhl03e0rlo85","title":"🚀 Migración mongodb Producción lazaro-prod-mongodb → mdb-lazaro","short_title":"🚀 Migración mongodb Producción lazaro-prod-mongodb → mdb-lazaro","start":"2026-08-31T13:00:00Z","end":"2026-08-31T14:00:00Z","type":"migration","url":"https://www.google.com/calendar/event?eid=NTJkMjBlY2k2NXBsaTNuaGwwM2UwcmxvODUgbm9jQGRlc3BlZ2FyLmNvbQ"},
+    {"calendar_id":"noc@despegar.com","calendar_name":"noc@despegar.com","event_id":"2urnn8feilsvead93sbloct1rm","id":"noc@despegar.com|2urnn8feilsvead93sbloct1rm","title":"🚀 Migración mongodb Producción kairos-mongo-prod → mdb-kairos","short_title":"🚀 Migración mongodb Producción kairos-mongo-prod → mdb-kairos","start":"2026-09-01T12:00:00Z","end":"2026-09-01T13:00:00Z","type":"migration","url":"https://www.google.com/calendar/event?eid=MnVybm44ZmVpbHN2ZWFkOTNzYmxvY3Qxcm0gbm9jQGRlc3BlZ2FyLmNvbQ"}
+  ]
 }
