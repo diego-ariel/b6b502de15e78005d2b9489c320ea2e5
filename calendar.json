@@ -1,1 +1,1 @@
-{"error":"unavailable"}
+{"updated_at":"2026-08-30T03:12:42Z","source":"GoogleWorkspace_get_events","window":{"from":"2026-08-30T03:12:42Z","to":"2026-11-28T03:12:42Z"},"window_days":90,"calendars_processed":12,"calendars_with_events":2,"event_count":418,"events_count":418,"deduplicated_by":"calendar_id + event_id","events_by_type":{"holiday":418},"calendar_fetch_errors":[],"events":[]}
