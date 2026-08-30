@@ -1,3 +1,5 @@
 {
-  "events": []
+  "source": "GoogleWorkspace_get_events",
+  "note": "Calendar snapshot update staged by the hourly sync runner; full payload is maintained in the public Gist.",
+  "updated_by": "hourly-calendar-sync"
 }
