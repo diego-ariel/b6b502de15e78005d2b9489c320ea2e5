@@ -1,19 +1,39 @@
 {
-  "status": "auth_error",
-  "message": "GitHub Gist PATCH authentication was rejected by the configured integration/proxy; the hourly runner remains retryable. The source snapshot is available in the task deliverable.",
+  "updated_at": "2026-09-02T11:27:52Z",
+  "window_start": "2026-09-02T11:27:52Z",
+  "window_end": "2026-12-01T11:27:52Z",
+  "window_days": 90,
   "source": "GoogleWorkspace_get_events",
-  "event_count": 130,
-  "calendars_processed": 12,
+  "calendar_count": 12,
+  "calendars_processed": [
+    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
+    "es.brazilian#holiday@group.v.calendar.google.com",
+    "es.cl#holiday@group.v.calendar.google.com",
+    "es.co#holiday@group.v.calendar.google.com",
+    "es.ec#holiday@group.v.calendar.google.com",
+    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
+    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com",
+    "en.ar#holiday@group.v.calendar.google.com",
+    "es.mexican#holiday@group.v.calendar.google.com",
+    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com",
+    "noc@despegar.com",
+    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com"
+  ],
+  "calendars_processed_count": 12,
+  "event_count": 113,
+  "events_count": 113,
+  "calendars_with_events": 10,
+  "deduplicated_by": "calendar_id + event_id",
   "events_by_type": {
-    "vacation": 2,
-    "promotion": 29,
-    "other": 31,
+    "holiday": 27,
+    "maintenance": 28,
     "meeting": 3,
-    "security": 30,
-    "holiday": 28,
-    "observance": 7
+    "observance": 8,
+    "other": 14,
+    "security": 32,
+    "vacation": 1
   },
   "future_only": true,
   "chronological": true,
-  "deduplicated_by": "calendar_id + event_id"
+  "calendar_fetch_errors": []
 }
