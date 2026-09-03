@@ -1,1 +1,53 @@
-{"test":true}
+{
+  "updated_at": "2026-09-03T19:14:08Z",
+  "window_start": "2026-09-03T19:14:08Z",
+  "window_end": "2026-12-02T19:14:08Z",
+  "window": {
+    "from": "2026-09-03T19:14:08Z",
+    "to": "2026-12-02T19:14:08Z"
+  },
+  "window_days": 90,
+  "source": "GoogleWorkspace_get_events",
+  "calendar_count": 12,
+  "calendars_processed_count": 12,
+  "calendars_processed": [
+    "despegar.com_dnp5er3uoj9m4p05c3t8p4eir0@group.calendar.google.com",
+    "es.brazilian#holiday@group.v.calendar.google.com",
+    "es.cl#holiday@group.v.calendar.google.com",
+    "es.co#holiday@group.v.calendar.google.com",
+    "es.ec#holiday@group.v.calendar.google.com",
+    "despegar.com_h4qg5ko265bupe05ftcmup4uuo@group.calendar.google.com",
+    "c_9b44a9060a59c4d0bf65e06b46dc33834366a1be0e3baf5f98bf7ebe1fb5c197@group.calendar.google.com",
+    "en.ar#holiday@group.v.calendar.google.com",
+    "es.mexican#holiday@group.v.calendar.google.com",
+    "c_pbs9vhgm20hl9tjikfjmfd8ups@group.calendar.google.com",
+    "noc@despegar.com",
+    "despegar.com_utjrn7oftf79ocoqf3e4if91kc@group.calendar.google.com"
+  ],
+  "event_count": 96,
+  "calendars_with_events": 10,
+  "events_count": 96,
+  "deduplicated_by": "calendar_id + event_id",
+  "calendar_fetch_errors": [],
+  "events_by_type": {
+    "holiday": 20,
+    "maintenance": 20,
+    "meeting": 2,
+    "observance": 15,
+    "promotion": 7,
+    "security": 31,
+    "vacation": 1
+  },
+  "event_types": [
+    "holiday",
+    "maintenance",
+    "meeting",
+    "observance",
+    "promotion",
+    "security",
+    "vacation"
+  ],
+  "future_only": true,
+  "chronological": true,
+  "events": []
+}
