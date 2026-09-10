@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-09-06T14:12:13Z",
-  "window_start": "2026-09-06T14:12:13Z",
-  "window_end": "2026-12-05T14:12:13Z",
+  "events": [],
+  "source": "google_calendar",
   "window_days": 90,
-  "source": "GoogleWorkspace_get_events",
+  "window_start": "2026-09-10T03:12:16Z",
+  "window_end": "2026-12-09T03:12:16Z",
   "calendar_count": 12,
-  "calendars_processed_count": 12,
-  "calendars_with_events": 9,
-  "future_only": true,
-  "deduplicated_by": "calendar_id + event_id",
-  "chronological": true,
-  "event_count": 70,
-  "events_by_type": {"holiday": 35, "maintenance": 33, "vacation": 2},
-  "events": []
+  "event_count": 35
 }
