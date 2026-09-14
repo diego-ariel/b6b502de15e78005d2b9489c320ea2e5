@@ -1,9 +1,1 @@
-{
-  "events": [],
-  "source": "google_calendar",
-  "window_days": 90,
-  "window_start": "2026-09-10T03:12:16Z",
-  "window_end": "2026-12-09T03:12:16Z",
-  "calendar_count": 12,
-  "event_count": 35
-}
+{"events":[],"source":"test","window_days":90,"calendar_count":0,"event_count":0}
