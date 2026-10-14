@@ -1,11 +1,1 @@
-{
-  "updated_at": "2026-10-14T13:21:17Z",
-  "source": "google_calendar_sync",
-  "window_start": "2026-10-14T13:21:17Z",
-  "window_end": "2027-01-12T13:21:17Z",
-  "calendars_processed": 12,
-  "event_count": 56,
-  "deduplicated_by": "calendar_id + event_id",
-  "note": "Fallback snapshot because GitHub Gist PATCH returned HTTP 401 Requires authentication. Not the requested Gist; pending successful Gist update.",
-  "events": []
-}
+{"events":[],"source":"sync pending"}
